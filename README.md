@@ -2,8 +2,8 @@
 
 **Course:** BDA 640 – Data Driven Decision Making & Optimization  
 **Project Title:** Operational Efficiency in Hospital Observation Units  
-**Team Members:** Aakanksha, Joyce, Srikar  
-**Tools Used:** Python, Excel, Statistical Modeling, Data Visualization  
+**Team Members:** Srikar Nadimpalli, Joyce Talluri, Aakanksha Singh 
+**Tools Used:** R, Excel, Statistical Modeling, Data Visualization  
 
 ---
 
@@ -19,7 +19,7 @@ Our objective was to optimize **bed occupancy**, reduce **flipping rates** (pati
 
 - Hospital: 260-bed facility in Montanaro with a 23-bed OU
 - Issue: 45% of OU patients were unnecessarily transferred to inpatient units
-- Goal: Reduce this "flipping rate" to 20% using data analytics
+- Goal: Reduce this "flipping rate" to 20% using data analysis
 
 ---
 
